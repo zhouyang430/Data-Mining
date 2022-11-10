@@ -1,2 +1,2 @@
 # data-mining
-手动实现数据挖掘中的Aprior、FP Growth算法、贝叶斯算法、K-Means、DBSCAN算法
+Implement Aprior, FP Growth algorithm, Bayesian algorithm, K-Means, DBSCAN algorithm in data mining
